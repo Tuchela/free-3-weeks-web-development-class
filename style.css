@@ -1,0 +1,22 @@
+/* cascading style sheet */
+
+/* using style tag */
+/* using  inlinne css */
+/* using external style */
+body{
+    font-family: "Roboto", 
+}
+section{
+margin-top: 30px;
+}
+button{
+padding: 15px;
+border: none;
+background-color: black;
+color: white;
+border-radius: 5px;
+cursor: pointer;
+}
+.fa-user{
+    margin-top: 20px;
+}
